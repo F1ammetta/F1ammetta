@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/F1ammetta/F1ammetta/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://raw.githubusercontent.com/F1ammetta/F1ammetta/output/snake.svg" alt="Snake animation" />
 
 ###
