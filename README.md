@@ -30,7 +30,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/F1ammetta/f1ammetta.github.io/refs/heads/main/PXL_20240723_173728992.jpg?token=GHSAT0AAAAAACUBIFXGIYS66QNYOOLQD2V2ZXU5FVQ"  />
+<!--<img align="right" height="150" src="https://raw.githubusercontent.com/F1ammetta/f1ammetta.github.io/refs/heads/main/PXL_20240723_173728992.jpg?token=GHSAT0AAAAAACUBIFXGIYS66QNYOOLQD2V2ZXU5FVQ"  /> -->
 
 ###
 
