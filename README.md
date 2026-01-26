@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sergio, and I'm an engineer from Colombia 🇨🇴</h2>
+<h2 align="left">🇨🇴</h2>
 
 ###
 
